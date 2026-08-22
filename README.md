@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am pusruing Btech in usar in iiot
+I am pusruing Btech in USAR in IIoT
+Student | Learning  C++ • Python • SQL & Web Development | Building Real Projects | Exploring AI & Software Development
 
 
 ## 🌐 Socials:
