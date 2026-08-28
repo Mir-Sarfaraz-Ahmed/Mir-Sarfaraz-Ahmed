@@ -36,11 +36,8 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mir-sarfaraz-ahmed&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mir Sarfaraz Ahmed's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mir-sarfaraz-ahmed&theme=radical&radius=10" alt="mir-sarfaraz-ahmed's Activity Graph" />
-</p>
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%" />
 </div>
 
 ## 🛠️ Languages & Tools
