@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=mir-sarfaraz-ahmed">
     <img src="https://komarev.com/ghpvc/?username=mir-sarfaraz-ahmed&label=Profile%20views&color=00FFFF&style=flat-square" alt="mir-sarfaraz-ahmed's profile views" />
   </a>
@@ -97,8 +101,4 @@
   <a href="https://mir-sarfaraz-ahmed.github.io/PortfolioV2/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
