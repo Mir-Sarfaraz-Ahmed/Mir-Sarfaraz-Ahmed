@@ -31,7 +31,6 @@
   <a href="https://github.com/mir-sarfaraz-ahmed">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mir-sarfaraz-ahmed&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="mir-sarfaraz-ahmed's GitHub Stats" />
   </a>
-  <img src="./profile/streak.svg" alt="mir-sarfaraz-ahmed's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mir-sarfaraz-ahmed&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mir Sarfaraz Ahmed's GitHub Trophies" />
@@ -86,15 +85,6 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/mir-sarfaraz-ahmed">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mir-sarfaraz-ahmed&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=mir-sarfaraz-ahmed)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
