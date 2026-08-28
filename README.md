@@ -39,9 +39,12 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mir-sarfaraz-ahmed&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mir Sarfaraz Ahmed's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-dark-neon.svg" alt="3D Contribution Calendar" width="100%" />
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🛠️ Languages & Tools
 
