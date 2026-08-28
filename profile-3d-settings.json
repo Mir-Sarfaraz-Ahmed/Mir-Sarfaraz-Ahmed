@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-dark-neon.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#f0f0ff",
+  "strongColor": "#ff4da6",
+  "weakColor": "#9b7cff",
+  "radarColor": "#ff4da6",
+  "growingAnimation": true,
+  "contribColors": [
+    "#171321",
+    "#3b1745",
+    "#6d1f61",
+    "#b52b86",
+    "#ff4da6"
+  ]
+}
