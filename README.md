@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=650&lines=Curious%20enough%20to%20explore.%20Bold%20enough%20to%20build." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mir-sarfaraz-ahmed">
@@ -39,12 +41,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mir-sarfaraz-ahmed&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mir Sarfaraz Ahmed's GitHub Trophies" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Mir-Sarfaraz-Ahmed/Mir-Sarfaraz-Ahmed/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 🛠️ Languages & Tools
 
