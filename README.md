@@ -18,7 +18,6 @@
 - 🌱 Continuously learning, experimenting, and improving as a developer
 - 🤝 Open to collaborating on impactful tech and open-source projects
 
-
 ## 🧠 My Focus Areas
 - Full-Stack Web Development
 - Artificial Intelligence & Machine Learning
@@ -26,7 +25,6 @@
 - Cloud Computing & AWS
 - Open Source Contribution
 - Hackathons & Product Development
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -42,9 +40,8 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mir-sarfaraz-ahmed&theme=radical&radius=10" alt="mir-sarfaraz-ahmed's Activity Graph" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" width="100%" />
 </div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -104,7 +101,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/mirsarfarazahmed">
+  <a href="https://www.linkedin.com/in/mirsarfarazahmed">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:mirsarfarazahmed07@gmail.com">
@@ -118,4 +115,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
